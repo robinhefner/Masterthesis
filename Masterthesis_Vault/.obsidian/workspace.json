@@ -4,20 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "b00f0f7ca8ed23ee",
+        "id": "4b851442bcbfea32",
         "type": "tabs",
         "children": [
           {
-            "id": "ad3a16aeed07ae88",
+            "id": "403854596e0a04ea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sources/Ning et al., 2026.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Ning et al., 2026"
+            }
+          },
+          {
+            "id": "b2b43dfeb8eb613a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "__Support/__Papers/Ning et al., 2026.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 514,
+                "zoom": 1.8676470588235294
+              },
+              "icon": "lucide-file-text",
+              "title": "Ning et al., 2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "__Support/__Papers/Lin et al., 2025.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,12 +200,45 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false
+      "bases:Neue Base erstellen": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ad3a16aeed07ae88",
+  "active": "b2b43dfeb8eb613a",
   "lastOpenFiles": [
-    "Unbenannt.md",
+    "Sources/Ning et al., 2026.md",
+    "Note/MIMIC vs. eICU.md",
+    "__Support/MIMICvseICU.png",
+    "Sources/Lin et al., 2025.md",
+    "Ideen.md",
+    "Note/eICU database.md",
+    "__Support/__Papers/Lin et al., 2025.pdf",
+    "Note/Large Language Models.md",
+    "[[Ning et al., 2026.pdf.md",
+    "__Support/__Papers/Ning et al., 2026.pdf",
+    "__Support/__Papers/Stribbe et al., 2026.md",
+    "Note/Multi Agent Architektur.md",
+    "Sources/Zhou et al., 2026.md",
+    "Note/Synthetische Patiendendaten.md",
+    "Sources/Theodorou et al., 2023.md",
+    "Sources/Stibbe et al., 2026.md",
+    "Sources/Gonzales et al., 2023.md",
+    "Sources/Bui Muti et al., 2026.md",
+    "__Support/__Papers/Zhou et al., 2026.pdf",
+    "Note/FHIR.md",
+    "Note/MIMIC-IV.md",
+    "__Support/__Papers/Gonzales et al., 2023.pdf",
+    "file:/home/d4rkm4n/Downloads/journal.pdig.0000082.pdf",
+    "__Support/__Papers/Bui Muti et al., 2026.pdf",
+    "__Support/__Papers/Theodorou et al., 2023.pdf",
+    "Clippings/Position Synthetic Data Generation for Electronic Health Records.md",
+    "Clippings",
+    "__Support/__Papers/2603.06720v1.pdf",
+    "Note/Metavision.md",
+    "__Support/__Papers",
+    "Note/MIMIC IV on FHIR.md",
     "Willkommen.md"
   ]
 }
