@@ -3,6 +3,7 @@ Author: "[[Yihan Lin]]"
 Journal: "[[JMLR]]"
 Title: A Case Study Exploring the Current Landscape of Synthetic Medical Record Generation with Commercial LLMs
 ---
+
 # [[Lin et al., 2025.pdf|A Case Study Exploring the Current Landscape of Synthetic Medical Record Generation with Commercial LLMs]]
 
 

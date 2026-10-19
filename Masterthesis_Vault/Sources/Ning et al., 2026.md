@@ -17,8 +17,14 @@ Title: "CRITIC–ADVISER–REVISER CYCLIC REFINEMENT: TOWARDS HIGH-QUALITY EMR C
 
 3 Agents:
 - Critic, who evaluates drafts against stage-specific objectives [[Ning et al., 2026.pdf#page=3&annotation=789R|Ning et al., 2026, p.3]]
+  [[Qwen2.5-7B-Instruct]] 
 - Adviser, who pinpoints areas for improvement and suggests strategies [[Ning et al., 2026.pdf#page=3&annotation=792R|Ning et al., 2026, p.3]]
+  [[Qwen2.5-32B-Instruct]] 
 - Reviser, who incorporates feedback to update the drafts [[Ning et al., 2026.pdf#page=3&annotation=795R|Ning et al., 2026, p.3]]
+  [[Qwen2.5- 0.5B-Instruct]] 
+
+
+
 
 
 ### Main Finding:

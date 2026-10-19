@@ -3,6 +3,7 @@ Author: "[[Guanglin Zhou]]"
 Journal: PrePrint
 Title: "From Statistical Fidelity to Clinical Consistency: Scalable Generation and Auditing of Synthetic Patient Trajectories"
 ---
+
 # [[Zhou et al., 2026.pdf|From Statistical Fidelity to Clinical Consistency: Scalable Generation and Auditing of Synthetic Patient Trajectories]]
 
 ### Research Gap:
@@ -20,6 +21,8 @@ Title: "From Statistical Fidelity to Clinical Consistency: Scalable Generation a
 
 
 [[MIMIC-IV]] as a data source [[Zhou et al., 2026.pdf#page=2&annotation=768R|Zhou et al., 2026, p.2]] 
+
+[[Qwen3-30B]]
 ### Main Finding:
 
 > ([[Zhou et al., 2026.pdf#page=7&annotation=810R|Zhou et al., 2026, p.7]])
