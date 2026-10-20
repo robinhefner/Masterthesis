@@ -1,6 +1,6 @@
 ---
 Author: "[[Guanglin Zhou]]"
-Journal: PrePrint
+Journal: "[[PrePrint]]"
 Title: "From Statistical Fidelity to Clinical Consistency: Scalable Generation and Auditing of Synthetic Patient Trajectories"
 ---
 

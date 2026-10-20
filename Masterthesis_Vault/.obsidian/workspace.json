@@ -4,45 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9f838d3a4b2f2921",
+        "id": "cea949623df5df3e",
         "type": "tabs",
         "children": [
           {
-            "id": "58f38e4482b62b2e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
-            }
-          },
-          {
-            "id": "dd6e360c7b7609ed",
+            "id": "3e804b7418b8a523",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Large Language Models.md",
+                "file": "Sources/Aghaee et al., 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Large Language Models"
-            }
-          },
-          {
-            "id": "e5ab0a185de059d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/Bui Muti et al., 2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bui Muti et al., 2026"
+              "title": "Aghaee et al., 2026"
             }
           }
         ]
@@ -213,43 +189,46 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "58f38e4482b62b2e",
+  "active": "3e804b7418b8a523",
   "lastOpenFiles": [
-    "Sources/Bui Muti et al., 2026.md",
-    "Note/Large Language Models.md",
-    "__Support/__Papers/Bui Muti et al., 2026.pdf",
-    "Sources/Zhou et al., 2026.md",
     "Sources/Ning et al., 2026.md",
-    "Gemini 3.5 Flash.md",
+    "__Support/__Papers/Ning et al., 2026.pdf",
+    "Sources/Ling et al., 2026.md",
     "Sources/Lin et al., 2025.md",
+    "Sources/Kramer et al., 2025.md",
+    "Sources/Hao et al., 2024.md",
+    "__Support/__Papers/Hao et al., 2024.pdf",
+    "Sources/Gonzales et al., 2023.md",
+    "Sources/Bui Muti et al., 2026.md",
+    "Sources/Bennett et al., 2023.md",
+    "Sources/Zuo et al.,2026.md",
+    "Sources/Zhou et al., 2026.md",
+    "Sources/Yan et al. 2022.md",
+    "Sources/Walonoski et al., 2017.md",
     "Sources/Theodorou et al., 2023.md",
+    "Sources/Stibbe et al., 2026.md",
+    "__Support/__Papers/Stibbe et al., 2026.md",
+    "Sources/Park et al., 2026.md",
+    "Sources/Frei et al., 2026.md",
+    "Sources/Barr et al. 2025.md",
+    "Sources/Aghaee et al., 2026.md",
+    "__Support/__Papers/Aghaee et al., 2026.pdf",
+    "__Support/__Papers/Bennett et al., 2023.pdf",
+    "__Support/__Papers/Kramer et al., 2025.pdf",
+    "__Support/__Papers/Barr et al. 2025.pdf",
+    "__Support/__Papers/Walonoski et al., 2017.pdf",
+    "__Support/__Papers/Frei et al., 2026.pdf",
+    "__Support/__Papers/Zuo et al.,2026.pdf",
+    "__Support/__Papers/Yan et al. 2022.pdf",
+    "Note/Large Language Models.md",
+    "Gemini 3.5 Flash.md",
     "__Support/Theodorou et al.,2023  Table 5.png",
     "__Support/Theodorou et al.,2023  Table 4.png",
     "__Support/Theodorou et al.,2023  Fig. 3.png",
-    "Sources/Gonzales et al., 2023.md",
-    "__Support/__Papers/Gonzales et al., 2023.pdf",
-    "__Support/__Papers/Theodorou et al., 2023.pdf",
-    "Sources/Stibbe et al., 2026.md",
     "Note/MIMIC IV on FHIR.md",
     "Note/MIMIC vs. eICU.md",
     "Note/MIMIC-IV.md",
     "Note/Multi Agent Architektur.md",
-    "Note/Synthetische Patiendendaten.md",
-    "Note/FHIR.md",
-    "Note/eICU database.md",
-    "__Support/__Papers/Zhou et al., 2026.pdf",
-    "__Support/__Papers/Ning et al., 2026.pdf",
-    "__Support/MIMICvseICU.png",
-    "Ideen.md",
-    "__Support/__Papers/Lin et al., 2025.pdf",
-    "[[Ning et al., 2026.pdf.md",
-    "__Support/__Papers/Stribbe et al., 2026.md",
-    "file:/home/d4rkm4n/Downloads/journal.pdig.0000082.pdf",
-    "Clippings/Position Synthetic Data Generation for Electronic Health Records.md",
-    "Clippings",
-    "__Support/__Papers/2603.06720v1.pdf",
-    "Note/Metavision.md",
-    "__Support/__Papers",
-    "Willkommen.md"
+    "__Support/MIMICvseICU.png"
   ]
 }

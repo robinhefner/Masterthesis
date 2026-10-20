@@ -1,6 +1,6 @@
 ---
 Author: "[[Cheng Ning]]"
-Journal:
+Journal: "[[ICLR]]"
 Title: "CRITIC–ADVISER–REVISER CYCLIC REFINEMENT: TOWARDS HIGH-QUALITY EMR CORPUS GENERA- TION WITH LLMS"
 ---
 

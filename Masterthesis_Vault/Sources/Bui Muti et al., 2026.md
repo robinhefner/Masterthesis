@@ -1,6 +1,6 @@
 ---
 Author: "[[Valentina Bui Muti]]"
-Journal:
+Journal: "[[AMIA]]"
 Title: "MedCase-Structured: A Text-to-FHIR Dataset for Benchmarking Diagnostic Reasoning in Clinically Realistic EHR Settings"
 ---
 
