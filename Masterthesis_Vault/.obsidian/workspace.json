@@ -13,12 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/Aghaee et al., 2026.md",
+                "file": "Sources/Barr et al. 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aghaee et al., 2026"
+              "title": "Barr et al. 2025"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3db7d9a47c599dce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc6696ba5c3b349a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "__Support/__Papers/Barr et al. 2025.pdf",
+                "page": 2,
+                "left": 231,
+                "top": 514,
+                "zoom": 1.7
+              },
+              "icon": "lucide-file-text",
+              "title": "Barr et al. 2025"
             }
           }
         ]
@@ -191,6 +213,17 @@
   },
   "active": "3e804b7418b8a523",
   "lastOpenFiles": [
+    "Ideen.md",
+    "Sources/Barr et al. 2025.md",
+    "Note/VitalDB.md",
+    "__Support/__Papers/Barr et al. 2025.pdf",
+    "Note/Large Language Models.md",
+    "Note/VAE.md",
+    "Note/ML.md",
+    "Note/GAN.md",
+    "Sources/Aghaee et al., 2026.md",
+    "__Support/__Papers/Aghaee et al., 2026.pdf",
+    "Sources/Zhou et al., 2026.md",
     "Sources/Ning et al., 2026.md",
     "__Support/__Papers/Ning et al., 2026.pdf",
     "Sources/Ling et al., 2026.md",
@@ -202,7 +235,6 @@
     "Sources/Bui Muti et al., 2026.md",
     "Sources/Bennett et al., 2023.md",
     "Sources/Zuo et al.,2026.md",
-    "Sources/Zhou et al., 2026.md",
     "Sources/Yan et al. 2022.md",
     "Sources/Walonoski et al., 2017.md",
     "Sources/Theodorou et al., 2023.md",
@@ -210,25 +242,16 @@
     "__Support/__Papers/Stibbe et al., 2026.md",
     "Sources/Park et al., 2026.md",
     "Sources/Frei et al., 2026.md",
-    "Sources/Barr et al. 2025.md",
-    "Sources/Aghaee et al., 2026.md",
-    "__Support/__Papers/Aghaee et al., 2026.pdf",
     "__Support/__Papers/Bennett et al., 2023.pdf",
     "__Support/__Papers/Kramer et al., 2025.pdf",
-    "__Support/__Papers/Barr et al. 2025.pdf",
     "__Support/__Papers/Walonoski et al., 2017.pdf",
     "__Support/__Papers/Frei et al., 2026.pdf",
     "__Support/__Papers/Zuo et al.,2026.pdf",
     "__Support/__Papers/Yan et al. 2022.pdf",
-    "Note/Large Language Models.md",
     "Gemini 3.5 Flash.md",
     "__Support/Theodorou et al.,2023  Table 5.png",
     "__Support/Theodorou et al.,2023  Table 4.png",
     "__Support/Theodorou et al.,2023  Fig. 3.png",
-    "Note/MIMIC IV on FHIR.md",
-    "Note/MIMIC vs. eICU.md",
-    "Note/MIMIC-IV.md",
-    "Note/Multi Agent Architektur.md",
     "__Support/MIMICvseICU.png"
   ]
 }
