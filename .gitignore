@@ -1,0 +1,125 @@
+# =========================================================
+# Obsidian
+# =========================================================
+# Workspace/UI state (changes on every click)
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+**/.obsidian/workspaces.json
+**/.obsidian/graph.json
+# Caches & trash
+**/.obsidian/cache
+**/.obsidian/plugins/*/cache/
+**/.trash/
+# Optional: plugin code/config not versioned -> uncomment
+# **/.obsidian/plugins/
+
+# =========================================================
+# LaTeX build artifacts
+# =========================================================
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.glg
+*.glo
+*.gls
+*.ist
+*.idx
+*.ilg
+*.ind
+*.lof
+*.lot
+*.loa
+*.lol
+*.log
+*.nav
+*.out
+*.run.xml
+*.snm
+*.synctex
+*.synctex.gz
+*.synctex(busy)
+*.toc
+*.vrb
+*.xdv
+*.acn
+*.acr
+*.alg
+*-blx.bib
+*.nlo
+*.nls
+_minted*/
+build/
+out/
+
+# =========================================================
+# Python / Jupyter
+# =========================================================
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+
+# =========================================================
+# Data (MIMIC/eICU/PhysioNet DUA forbids redistribution!)
+# =========================================================
+data/
+datasets/
+*.csv.gz
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.npz
+*.pkl
+*.db
+*.sqlite
+# Model weights / checkpoints
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+checkpoints/
+wandb/
+mlruns/
+
+# =========================================================
+# Secrets
+# =========================================================
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets*
+
+# =========================================================
+# Editors / IDEs
+# =========================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.history/
+
+# =========================================================
+# OS
+# =========================================================
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+.directory
+.~lock.*#
+~$*
