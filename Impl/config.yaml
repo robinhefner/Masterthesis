@@ -1,0 +1,16 @@
+llm:
+  base_url: http://127.0.0.1:11434/v1
+  model: qwen14b-16k
+  temperature: 0.2
+  seed: 42
+embedding:
+  model: nomic-embed-text
+pipeline:
+  max_iterations: 4
+  max_concurrency: 2
+  cohorts: [sepsis, dka, hf]
+paths:
+  mimic_raw: /srv/mimic/mimic-iv-fhir/2.1/fhir
+  parquet: /srv/mimic/parquet
+  duck_tmp: /srv/mimic/duck_tmp
+  runs: ./runs
